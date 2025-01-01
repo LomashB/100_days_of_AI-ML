@@ -1,4 +1,4 @@
-Welcome to the **100 Days of Data Science Challenge**! 🚀  
+Welcome to the **100 Days of AI, ML & Data Science Challenge**! 🚀  
 This challenge is a structured journey to dive deep into the exciting fields of Data Science, Machine Learning, and Artificial Intelligence. Over the next 100 days, I’ll be sharing daily learnings, hands-on code, and practical insights to master the art of turning data into knowledge.  
 
 ## **What This Repository Offers**  
