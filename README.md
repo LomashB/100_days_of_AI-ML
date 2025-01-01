@@ -18,3 +18,7 @@ AI and ML are revolutionizing industries worldwide, and mastering them is more c
 Whether you're aspiring to be a data scientist, AI engineer, or ML researcher, this repository offers a step-by-step roadmap to success.  
 
 Join me in this transformative journey to become an AI/ML expert in 100 days! Follow along for daily updates on LinkedIn, Medium blogs, and this repository. Let’s code, learn, and grow together! 🌟
+
+GitHub: github.com/LomashB
+Medium: medium.com/@lomashbhuva
+LinkedIn: linkedin.com/in/lomash-bhuva/
